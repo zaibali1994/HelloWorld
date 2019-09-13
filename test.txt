@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 5E47-398B
+
+ Directory of D:\Work\Git Testing
+
+09/13/2019  11:01 AM    <DIR>          .
+09/13/2019  11:01 AM    <DIR>          ..
+09/13/2019  11:01 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  74,891,993,088 bytes free
